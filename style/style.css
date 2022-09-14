@@ -147,6 +147,8 @@ body {
   padding-bottom: 280px;
   text-align: center;
   margin: 0 auto;
+  background-image: url(../images/Img-hero-opt.jpg) ;
+  background-size: cover;
 }
 .hero-h {
   width: 696px;
